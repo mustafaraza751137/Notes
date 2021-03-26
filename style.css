@@ -7,14 +7,14 @@
     font-family: arial, sans-serif;
     font-size: 100%;
     margin: 3em;
-    background: #333;
+    background: #17223b;
     color: #fff;
   }
   
   #heading {
     position: sticky;
     top: 0;
-    background-color: #333;
+    background-color: #17223b;
     z-index: 7;
     padding: 15px 0px;
     margin-left: 15px;
