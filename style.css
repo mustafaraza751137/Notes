@@ -75,6 +75,7 @@
   }
   
   ul li a {
+    overflow: auto;
     text-decoration: none;
     color: #000;
     background: #ffd31d;
