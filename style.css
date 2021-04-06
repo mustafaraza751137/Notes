@@ -43,6 +43,7 @@
   }
   
   .btn {
+    position: sticky;
     padding: 10px;
     border-radius: 20px;
     border: 2px solid #ffd31d;
